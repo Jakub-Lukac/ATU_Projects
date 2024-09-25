@@ -1,0 +1,12 @@
+75
+87
+45
+66
+48
+91
+62
+-2
+101
+d
+
+Total number of points for 7 subjects is : 489

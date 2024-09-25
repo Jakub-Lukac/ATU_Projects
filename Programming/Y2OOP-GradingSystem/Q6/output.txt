@@ -1,0 +1,34 @@
+Name                     ID                       
+Jakub                    S00255726                
+
+Subject                  Percentage               Grade                    Points                   
+Maths                    85                       H2                       88                       
+Prog                     56                       O5                       20                       
+
+Total Points                                                               108                      
+**********************************************************************************
+Name                     ID                       
+Martin                   S00255727                
+
+Subject                  Percentage               Grade                    Points                   
+PE                       56                       H5                       56                       
+Chemics                  95                       H1                       100                      
+
+Total Points                                                               156                      
+**********************************************************************************
+Name                     ID                       
+Alekss                   S00255728                
+
+Subject                  Percentage               Grade                    Points                   
+Maths                    23                       O8                       0                        
+
+Total Points                                                               0                        
+**********************************************************************************
+Name                     ID                       
+Jakub                    S00255729                
+
+Subject                  Percentage               Grade                    Points                   
+Maths                    80                       H2                       88                       
+
+Total Points                                                               88                       
+**********************************************************************************
